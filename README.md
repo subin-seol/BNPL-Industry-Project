@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wNN69YNG)
 # Generic Buy Now, Pay Later Project
 
 This project aims to generate a robust ranking system and insights to assist a BNPL firm in finding which merchants they should form partnerships with, in order to maximise future profitability. Our final ranking system incorporates expected profitability per merchant based on:
